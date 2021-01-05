@@ -1,0 +1,13 @@
+Baza danych „Zoo”, stworzona przez Dawida Glinieckiego
+
+Trzydzieści jeden zwierząt na dwudziestu wybiegach w małym zoo, 
+podzielonym na dwanaście stref, posiadającym po jednym magazynie, 
+z pokarmem specjalnie przygotowanym dla każdego rodzaju zwierząt.
+
+
+Baza składa się z 5 tabel:
+1)	Zwierzęta – Lista wszystkich zwierząt w zoo
+2)	Wybieg – Lista 20 wybiegów zwierząt połączona z tabelą nr 1 i nr 3.
+3)	Strefa -  12 stref dzielące zoo na części, mające połączenie z wybiegami i magazynami
+4)	Magazyn – 12 magazynów z pokarmem dla zwierząt, po jednym na strefe.
+5)	Pokarm – Szczegółowy pokarm dla zwierząt rozmieszczony po magazynach. 
